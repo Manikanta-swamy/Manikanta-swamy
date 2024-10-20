@@ -32,8 +32,6 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
 ## 🌟 Projects
 Here are some of the projects I'm proud of:
 
@@ -43,7 +41,6 @@ Here are some of the projects I'm proud of:
 ### 🌐 [Personal Portfolio](https://github.com/Manikanta-swamy/MyPortfolio)
 - Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
 
----
 
 ## Connect with me :
 - 💼 **portfolio** : [*visit my portfolio*](https://manikanta-swamy.vercel.app)
