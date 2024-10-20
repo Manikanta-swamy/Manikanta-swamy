@@ -46,5 +46,5 @@ Here are some of the projects I'm proud of:
 Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
 ---
 📫 Let's Connect
-💼 portfolio[https:manikanta-swamy.vercel.app]
+💼 ![portfolio](https://manikanta-swamy.vercel.app)
 💬 LinkedIn: Lets connect together [Manikanta Swamy]
