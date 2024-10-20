@@ -1,5 +1,3 @@
-## Hi there 
-
 <!--
 **Manikanta-swamy/Manikanta-swamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,18 +31,20 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###🌟 Projects
+---
+
+### 🌟 Projects
 Here are some of the projects I'm proud of:
 
-##🔐 Company Registration and Verification System
+## 🔐 Company Registration and Verification System
 A robust system for registering companies, verifying users with Twilio SMS service, and handling authentication with JWT.
 
-📚 Learning Management Platform
+#📚 Learning Management Platform
 A platform for online learning with modules, assessments, and interactive content. Built with React, FastAPI, and PostgreSQL.
 
-🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
-
+---
 📫 Let's Connect
 💼 https:manikanta-swamy.vercel.app
 💬 LinkedIn: Manikanta Swamy
