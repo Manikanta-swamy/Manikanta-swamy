@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **Manikanta-swamy/Manikanta-swamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Manikanta Swamy! \ud83d \udc4b \n\n
+# Hi there, I'm Manikanta Swamy! 👋
+
 Welcome to my GitHub profile! 
 I'm a 2024 Computer Science graduate with a passion for creating intuitive web applications and backend systems. I'm constantly exploring new technologies and contributing to open-source projects. If you're here to check out some of my work, feel free to dive in! 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=Manikanta-swamy&color=blueviolet)  
@@ -31,3 +32,19 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+###🌟 Projects
+Here are some of the projects I'm proud of:
+
+##🔐 Company Registration and Verification System
+A robust system for registering companies, verifying users with Twilio SMS service, and handling authentication with JWT.
+
+📚 Learning Management Platform
+A platform for online learning with modules, assessments, and interactive content. Built with React, FastAPI, and PostgreSQL.
+
+🌐 Personal Portfolio
+Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
+
+📫 Let's Connect
+💼 https:manikanta-swamy.vercel.app
+💬 LinkedIn: Manikanta Swamy
