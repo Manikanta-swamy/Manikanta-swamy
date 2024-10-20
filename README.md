@@ -33,18 +33,18 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 
 ---
 
-### 🌟 Projects
+## 🌟 Projects
 Here are some of the projects I'm proud of:
 
-## 🔐 Company Registration and Verification System
-A robust system for registering companies, verifying users with Twilio SMS service, and handling authentication with JWT.
+### 🔐 Company Registration and Verification System
+- A robust system for registering companies, verifying users with Twilio SMS service, and handling authentication with JWT.
 
 #📚 Learning Management Platform
-A platform for online learning with modules, assessments, and interactive content. Built with React, FastAPI, and PostgreSQL.
+- A platform for online learning with modules, assessments, and interactive content. Built with React, FastAPI, and PostgreSQL.
 
 ### 🌐 Personal Portfolio
 Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
 ---
 📫 Let's Connect
-💼 https:manikanta-swamy.vercel.app
-💬 LinkedIn: Manikanta Swamy
+💼 portfolio[https:manikanta-swamy.vercel.app]
+💬 LinkedIn: Lets connect together [Manikanta Swamy]
