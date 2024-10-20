@@ -22,7 +22,7 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest%202024-Contributor-orange)](https://hacktoberfest.com/)
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 - Frontend: React, Tailwind CSS, Shadcn, HTML, CSS, JS
 - Backend: Express Js, Java Servlets, Node.js
 - Database: JDBC
@@ -48,5 +48,6 @@ Here are some of the projects I'm proud of:
 
 ---
 
-💼 ![portfolio](https://manikanta-swamy.vercel.app) \n
-💬 LinkedIn: Let's connect together [Manikanta Swamy]
+## Connect with me :
+- 💼 **portfolio** : *visit my portfolio* (https://manikanta-swamy.vercel.app)
+- 💬 **LinkedIn** : *Let's connect together* (https://www.linkedin.com/in/manikanta-swamy-angara-941117299/)
