@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Manikanta Swamy! 👋
 
 Welcome to my GitHub profile! 
-    I'm a 2024 Computer Science graduate with a passion for creating intuitive web applications and backend systems. I'm constantly exploring new technologies and contributing to open-source projects. If you're here to check out some of my work, feel free to dive in! 🚀
+    -I'm a 2024 Computer Science graduate with a passion for creating intuitive web applications and backend systems. I'm constantly exploring new technologies and contributing to open-source projects. If you're here to check out some of my work, feel free to dive in! 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=Manikanta-swamy&color=blueviolet)  
 [![GitHub followers](https://img.shields.io/github/followers/Manikanta-swamy?label=Followers&style=social)](https://github.com/Manikanta-swamy)  
 [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest%202024-Contributor-orange)](https://hacktoberfest.com/)
