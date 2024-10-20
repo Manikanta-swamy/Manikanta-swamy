@@ -37,13 +37,10 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 ## 🌟 Projects
 Here are some of the projects I'm proud of:
 
-### 🔐 Company Registration and Verification System
+### 🔐 [Company Registration and Verification System](https://github.com/Manikanta-swamy/Cuvette)
 - A robust system for registering companies, verifying users with Twilio SMS service, and handling authentication with JWT.
 
-### 📚 Learning Management Platform
-- A platform for online learning with modules, assessments, and interactive content. Built with React, FastAPI, and PostgreSQL.
-
-### 🌐 Personal Portfolio
+### 🌐 [Personal Portfolio](https://github.com/Manikanta-swamy/MyPortfolio)
 - Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
 
 ---
