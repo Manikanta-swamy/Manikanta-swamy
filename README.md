@@ -49,5 +49,5 @@ Here are some of the projects I'm proud of:
 ---
 
 ## Connect with me :
-- 💼 **portfolio** : [*visit my portfolio*] (https://manikanta-swamy.vercel.app)
-- 💬 **LinkedIn** : [*Let's connect together*] (https://www.linkedin.com/in/manikanta-swamy-angara-941117299/)
+- 💼 **portfolio** : [*visit my portfolio*](https://manikanta-swamy.vercel.app)
+- 💬 **LinkedIn** : [*Let's connect together*](https://www.linkedin.com/in/manikanta-swamy-angara-941117299/)
