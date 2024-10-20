@@ -21,7 +21,8 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 [![GitHub followers](https://img.shields.io/github/followers/Manikanta-swamy?label=Followers&style=social)](https://github.com/Manikanta-swamy)  
 [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest%202024-Contributor-orange)](https://hacktoberfest.com/)
 ---
-## 🛠️ Technologies & Tools
+
+### 🛠️ Technologies & Tools
 - Frontend: React, Tailwind CSS, Shadcn, HTML, CSS, JS
 - Backend: Express Js, Java Servlets, Node.js
 - Database: JDBC
@@ -39,12 +40,13 @@ Here are some of the projects I'm proud of:
 ### 🔐 Company Registration and Verification System
 - A robust system for registering companies, verifying users with Twilio SMS service, and handling authentication with JWT.
 
-#📚 Learning Management Platform
+### 📚 Learning Management Platform
 - A platform for online learning with modules, assessments, and interactive content. Built with React, FastAPI, and PostgreSQL.
 
 ### 🌐 Personal Portfolio
-Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
+- Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
+
 ---
-📫 Let's Connect
-💼 ![portfolio](https://manikanta-swamy.vercel.app)
-💬 LinkedIn: Lets connect together [Manikanta Swamy]
+
+💼 ![portfolio](https://manikanta-swamy.vercel.app) \n
+💬 LinkedIn: Let's connect together [Manikanta Swamy]
