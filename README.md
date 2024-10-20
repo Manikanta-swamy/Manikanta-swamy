@@ -22,6 +22,10 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 [![GitHub followers](https://img.shields.io/github/followers/Manikanta-swamy?label=Followers&style=social)](https://github.com/Manikanta-swamy)  
 [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest%202024-Contributor-orange)](https://hacktoberfest.com/)
 
+
+
+
+
 ## 🛠️ Technologies & Tools
 - Frontend: ⚛️ React, 🌬️ Tailwind CSS, 🌈 Shadcn, 🎨 HTML, CSS, JS
 - Backend:📦 Express Js, ☕️ Java & Servlets, 🌍 Node.js
@@ -32,14 +36,21 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+
+
+
 ## 🌟 Projects
-Here are some of the projects I'm proud of:
+Here are some of the projects I'm proud of : 
 
 ### 🔐 [Company Registration and Verification System](https://github.com/Manikanta-swamy/Cuvette)
 - A robust system for registering companies, verifying users with Twilio SMS service, and handling authentication with JWT.
 
 ### 🌐 [Personal Portfolio](https://github.com/Manikanta-swamy/MyPortfolio)
 - Showcasing my projects, skills, and achievements. Created using modern frontend technologies.
+
+
+
 
 
 ## Connect with me :
