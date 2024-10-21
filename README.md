@@ -31,7 +31,7 @@ I'm a 2024 Computer Science graduate with a passion for creating intuitive web a
 - Backend:📦 Express Js, ☕️ Java & Servlets, 🌍 Node.js
 - Database: 💾 JDBC
 - Version Control: 🌿 Git, 🐙 GitHub
-- Other Tools: Twilio (SMS integration), 🔐 JWT (Authentication), 🔄 Axios (HTTP requests)
+- Other Tools: Swagger, 🔐 JWT (Authentication), 🔄 Axios (HTTP requests)
   ### Languages & Frameworks
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
